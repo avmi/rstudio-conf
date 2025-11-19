@@ -287,7 +287,7 @@ Shiny is being used more regularly as a front end to sophisticated workflows in 
 
 For a model to provide value in production, it must be fit for purpose, deployable, and maintainable over time. R provides tools to help us build these kinds of **maintainable production systems**. This talk will present techniques, adapted from software engineering, that provide a stable foundation for building models and writing all the accompanying code that's often needed to train, test, and update models over time. Attendees will learn how, by centering model development on **packages**, writing **tests**, creating intuitive S3 methods, and more, we can build modularized, testable code that makes our models easier to monitor and update over time. 
 
-📁 Materials Not Available | 📹 [YouTube Link](https://youtu.be/ZbMTCS50Sqk)
+📁 [Materials](https://elderresearch.github.io/posit-conf-2025/index.html) | [Blog Post](https://tshafer.com/blog/2025/11/recap-post-conf-2025) | 📹 [YouTube Link](https://youtu.be/ZbMTCS50Sqk)
 
     
 
